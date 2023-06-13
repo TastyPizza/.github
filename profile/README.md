@@ -45,3 +45,6 @@
 * `AndroidX` для андроид приложения
 * `Junit` для тестирования разработанного функционала
 
+### Запуск 
+Для запуска бэкенда установите [`docker-compose.yml`](https://github.com/TastyPizza/.github/blob/main/assets/docker-compose.yml) и выполните команду `docker compose up`
+
